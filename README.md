@@ -7,3 +7,6 @@ File format:
 - Bits / Sample: 16 (or 8)
 - Tracks: 1, mono.
 - Compression Codec: PCM (or u-law, a-law)
+
+# TO DO
+- nomralize volume across all files
