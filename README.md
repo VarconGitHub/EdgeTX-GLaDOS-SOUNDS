@@ -9,5 +9,6 @@ File format:
 - Compression Codec: PCM (or u-law, a-law)
 
 # TO DO
+- MOST IMPORTANT make them louder
 - nomralize volume across all files
 - add more sounds 
